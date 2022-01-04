@@ -20,7 +20,8 @@ h1{
    
  }
   section{
-      display: flex;  
+      display: flex; 
+      margin-top: 1px; 
   }
   .hw{
       width: 50%;
@@ -33,14 +34,19 @@ h1{
   }
   .link-button{
       text-decoration: none;
-      color: bisque;
+      color: blanchedalmond;  
       background-color:orangered; 
       padding: 10px 30px;
-      border-radius: 5px;
+      border-radius: 10px;
       font-weight: 700;
   }
   .top-banner{
       background-image:url(images/top-banner.png);
       background-repeat: no-repeat;
       
+  }
+  .my-family{
+      background-image:url(images/dream-bg.png) ;
+      background-repeat: no-repeat;
+      background-position: right;
   }
