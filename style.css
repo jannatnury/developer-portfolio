@@ -97,3 +97,20 @@ h1{
 
 
 }
+footer p{
+    text-align:end
+}
+.last{
+    color:orangered;
+    font-weight: 200;
+}
+.lastname{
+    color: purple);
+    font-weight: 200;
+}
+.mm{
+    color: red;
+}
+.green{
+    color: green;
+}
