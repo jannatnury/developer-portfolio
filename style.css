@@ -1,5 +1,6 @@
 body{
     font-family: 'Raleway', sans-serif;
+    margin: 0;
 }
 h1{
      font-size: 50px;    
@@ -16,14 +17,30 @@ h1{
  p{
      width: 500px;
      color: rgb(70, 17, 218);
-     background-color:rgb(236, 233, 9);
+   
  }
   section{
       display: flex;  
   }
   .hw{
       width: 50%;
+      padding: 7%;
   }
   .hw img{
-    width: 1%%;
+    width: 60%;
+    height: 20cm;
+    width: 100%;
+  }
+  .link-button{
+      text-decoration: none;
+      color: bisque;
+      background-color:orangered; 
+      padding: 10px 30px;
+      border-radius: 5px;
+      font-weight: 700;
+  }
+  .top-banner{
+      background-image:url(images/top-banner.png);
+      background-repeat: no-repeat;
+      
   }
