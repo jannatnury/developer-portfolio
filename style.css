@@ -26,6 +26,7 @@ h1{
   .hw{
       width: 50%;
       padding: 7%;
+     
   }
   .hw img{
     width: 60%;
@@ -71,4 +72,28 @@ h1{
     color: crimson;
     font-weight: bolder;
     padding-left: 100px;
+}
+.experience-items{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+    padding-left: 30px;
+    border-radius: 15px;
+    background-image: linear-gradient(blue,orange);
+    border-left: 5px solid rebeccapurple;
+   
+    box-shadow: 10px 10px 10px gray;
+
+}
+.experience-items{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+
+#web-dev-ex{
+    background-image: ;
+
+
 }
